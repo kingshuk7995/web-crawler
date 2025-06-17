@@ -1,0 +1,17 @@
+# ninja log v5
+7	89	1750080460821147399	test/CMakeFiles/WebCrawler_test.dir/test_parser.cc.o	d2628ffa78596351
+1	3971	1750136006755166553	CMakeFiles/WebCrawler.dir/controllers/api_parse.cc.o	b5347811b232479c
+3	3045	1750141179217064654	CMakeFiles/WebCrawler.dir/main.cc.o	52ad878662eace5f
+3045	4408	1750141180569929799	WebCrawler	353c10986201f36
+7	4626	1750080465352754363	test/CMakeFiles/WebCrawler_test.dir/test_main.cc.o	d5393f5a14e67047
+2	584	1750103929447073271	CMakeFiles/WebCrawler.dir/utills/Parser.cc.o	bb1b8a2ae1502d97
+2	3820	1750136006603499922	CMakeFiles/WebCrawler.dir/utills/ParseClient.cc.o	3d2bde80cab38bba
+4626	6066	1750080466776342027	test/WebCrawler_test	2631e5a8bd17c587
+1	3059	1750141273402409990	CMakeFiles/WebCrawler.dir/main.cc.o	52ad878662eace5f
+3060	4117	1750141274446743325	WebCrawler	55e3e98e2ca6e4fd
+7	4575	1750144033178057978	CMakeFiles/WebCrawler.dir/main.cc.o	52ad878662eace5f
+2	4139	1750144057011394171	CMakeFiles/WebCrawler.dir/utills/ParseClient.cc.o	3d2bde80cab38bba
+4139	5781	1750144058647328653	WebCrawler	55e3e98e2ca6e4fd
+3	4844	1750144593537228928	CMakeFiles/WebCrawler.dir/utills/ParseClient.cc.o	3d2bde80cab38bba
+3	4997	1750144593691228928	CMakeFiles/WebCrawler.dir/controllers/api_parse.cc.o	b5347811b232479c
+4997	6379	1750144595064028933	WebCrawler	55e3e98e2ca6e4fd
