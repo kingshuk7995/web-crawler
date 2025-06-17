@@ -3,7 +3,6 @@ project(WebCrawler_test CXX)
 
 add_executable(${PROJECT_NAME}
  test_main.cc
- test_parser.cc
 )
 
 target_link_libraries(${PROJECT_NAME} PRIVATE Drogon::Drogon)
