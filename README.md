@@ -20,3 +20,5 @@
 - Used Gumbo C++ for parsing Html files and getting the meta data from it.
 - Used postgreSQL as database for storing the parsed data.
 - Used Drogon's CSP(C++ server pages) for UI.
+
+  # deprecated Realising C++ isnt the good choice unless building ground up with boost::asio and Gumbo and DataBase
